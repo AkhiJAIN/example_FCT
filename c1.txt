@@ -1,0 +1,1 @@
+hello from folder 2 and can you acces the things from anywhere or not 
