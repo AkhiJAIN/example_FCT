@@ -1,1 +1,2 @@
-hello from folder 2 and can you acces the things from anywhere or not 
+hello from folder 2 and can you acces the things from anywhere else.
+hi folder  2 from greeting from folder 3 and i am making changes here okey.
